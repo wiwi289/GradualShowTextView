@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GradualShowTextView">
+        <attr name="background_text_color" format="color|reference"/>
+        <attr name="foreground_text_color" format="color|reference"/>
+        <attr name="text_content" format="string|reference"/>
+        <attr name="line_space" format="dimension"/>
+        <attr name="line_animation_time" format="integer"/>
+    </declare-styleable>
+</resources>

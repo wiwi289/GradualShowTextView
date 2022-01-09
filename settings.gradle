@@ -1,0 +1,3 @@
+include ':GradualShowTextView'
+include ':app'
+rootProject.name = "GradualTextProject"
